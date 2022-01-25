@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Esta es la hisitoria de Jhorman Villa
 
 Jhorman Villa tiene 28 años de nacido y nació en Colombia, pero está a pocos meses de que cumplir los 29
@@ -5,3 +6,10 @@ Jhorman Villa tiene 28 años de nacido y nació en Colombia, pero está a pocos 
 Hoy hablaremos de su hisitoria.
 
 en la vida real, es muy alto y no se ve tan gordo ya.
+=======
+esta es la historia de Jhorman 
+
+Jhorman villa tiene 27 y nació en cali, Colombia
+
+Hoy hablaremos de su historia.
+>>>>>>> 34deb185787880aabef3fb02a9669a49178f2584
